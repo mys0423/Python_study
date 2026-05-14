@@ -1,0 +1,7 @@
+
+        {
+            "_type": "prompt",
+            "template": "{country}에 대해서 어떻게 알고 있어요?",
+            "input_varoables": ["country"]
+        }
+    
